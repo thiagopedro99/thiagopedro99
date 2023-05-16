@@ -1,8 +1,8 @@
 ## Oiii eu sou o Thiago, Estudante em Análise e Desenvolvimento de Sistema e formadao em Técnico Desenvolvimento de Sistemas pelo Senai!
 
 <div align="center">
-  <a href="https://github.com/thiagopedro99">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Thiagopedro99&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/Thiagopedro99">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=thiagopedro99&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagopedro99&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
