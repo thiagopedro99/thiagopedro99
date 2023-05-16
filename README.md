@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/Thiagopedro99">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Isabelapetss2&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https:github-readme-stats-git-main-thiagopedro99.vercel.app/api?username=Thiagopedro99&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagopedro99&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
