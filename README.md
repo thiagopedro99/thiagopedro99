@@ -1,5 +1,10 @@
 ## Oiii eu sou o Thiago, Estudante em Análise e Desenvolvimento de Sistema e formadao em Técnico Desenvolvimento de Sistemas pelo Senai!
 
+<div align="center">
+  <a href="https://github.com/thiagopedro99">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Isabelapetss2&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Isabelapetss2&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Thiago-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
