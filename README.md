@@ -1,4 +1,4 @@
-## Oiii eu sou o Thiago, Estudante em Análise e Desenvolvimento de Sistema e formadao em Técnico Desenvolvimento de Sistemas pelo Senai!
+## Sou formado no curso Técnico em Desenvolvimento de sistemas pelo Senai e atualmente estou cursando Tecnólogo em Análise e Desenvolvimento de sistemas na UniCesumar. Nos meus anos de experiência trabalhando em comércios, adquiri alguns soft skills como foco, paciência e Resolução de problemas creio serem valiosos para um mercado que vive em constante transformação e demanda. estou sempre aberto a novos desafios e jornadas e pronto para provar minhas habilidades adquiridas e as que ainda irei aprender nesse futuro constante de novas descobertas!
 
 <div align="center">
   <a href="https://github.com/Thiagopedro99">
