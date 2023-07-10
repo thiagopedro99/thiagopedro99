@@ -11,7 +11,7 @@
   <img align="center" alt="Thiago-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Thiago-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   
-  <img align="right" items='center' alt="Thiago-pic" height="150" style="border-radius:90px;" src="https://avatars.githubusercontent.com/u/69489913?v=4">
+  <img align="right" alt="Thiago-pic" height="130" style="border-radius:90px;" src="https://avatars.githubusercontent.com/u/69489913?v=4">
 </div>
   
   ##
