@@ -3,6 +3,7 @@
   <a href="https://github.com/Thiagopedro99">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Thiagopedro99&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagopedro99&layout=compact&langs_count=7&theme=dracula"/>
+     <img align="right" alt="Thiago-pic" height="130" style="border-radius:90px;" src="https://avatars.githubusercontent.com/u/69489913?v=4">
 </div>
 
 <div style="display: inline_block"><br>
@@ -11,7 +12,7 @@
   <img align="center" alt="Thiago-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Thiago-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   
-  <img align="right" alt="Thiago-pic" height="130" style="border-radius:90px;" src="https://avatars.githubusercontent.com/u/69489913?v=4">
+ 
 </div>
   
   ##
