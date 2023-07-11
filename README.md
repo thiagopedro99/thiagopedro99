@@ -1,8 +1,8 @@
 ## Sou formado no curso Técnico em Desenvolvimento de sistemas pelo Senai e atualmente estou cursando Tecnólogo em Análise e Desenvolvimento de sistemas na UniCesumar.
 <div align="left">
-  <a href="https://github.com/thiagopedro99">
+  <a href="https://github.com/Thiagopedro99">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=thiagopedro99&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagopedro99&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiagopedro99&layout=compact&langs_count=7&theme=dracula"/>
      <img align="top-center" alt="Thiago-pic" height="155" style="border-radius:90px;" src="https://avatars.githubusercontent.com/u/69489913?v=4">
 </div>
 
