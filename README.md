@@ -1,4 +1,4 @@
-## Sou formado no curso Técnico em Desenvolvimento de sistemas pelo Senai e atualmente estou cursando Tecnólogo em Análise e Desenvolvimento de sistemas na UniCesumar.
+## Sou formado no curso Técnico em Desenvolvimento de sistemas pelo Senai e estudando Back-End na Cubos Academy.
 <div align="left">
   <a href="https://github.com/Thiagopedro99">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Thiagopedro99&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
