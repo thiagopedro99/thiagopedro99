@@ -1,4 +1,11 @@
-## Sou formado no curso Técnico em Desenvolvimento de sistemas pelo Senai e estudando Back-End na Cubos Academy.
+## Thiago Pedro Da Silva.
+<div>
+  <p> Sou um mineiro que ama café, música e sou muito encantado pela tecnologia e seus desafios, estou sempre em constante aprendizado.</p>
+  <p>Estou cursando tecnólogo em Análise e Desenvolvimento de Sistemas na UniCesumar e também me especializando em Desenvolvimento de Software Back-End pela Cubos Academy, </p>
+    <p>acumulando experiência em Back-End (Javascript, Node.js, SQL, PostegreSql e Git).</p>
+
+</div>
+
 <div align="left">
   <a href="https://github.com/thiagopedro99">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=thiagopedro99&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
