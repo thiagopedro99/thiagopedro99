@@ -1,7 +1,7 @@
 ## Thiago Pedro Da Silva.
 <div>
   <p>
-  Estou cursando tecnólogo em Análise e Desenvolvimento de Sistemas na UniCesumar e também me especializando em Desenvolvimento de Software Back-End pela Cubos Academy, acumulando experiência em Back-End (Javascript, Node.js, SQL, PostegreSql e Git).</p>
+  Estou me especializando em Desenvolvimento de Software Back-End pela Cubos Academy, acumulando experiência em Back-End (Javascript, Node.js, SQL, PostegreSql e Git).</p>
 
 </div>
 
