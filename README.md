@@ -1,6 +1,6 @@
 ## Thiago Pedro Da Silva.
 <div>
-  <p>Sou um mineiro que ama café, música e sou muito encantado pela tecnologia e seus desafios, estou sempre em constante aprendizado.
+  <p>
   Estou cursando tecnólogo em Análise e Desenvolvimento de Sistemas na UniCesumar e também me especializando em Desenvolvimento de Software Back-End pela Cubos Academy, acumulando experiência em Back-End (Javascript, Node.js, SQL, PostegreSql e Git).</p>
 
 </div>
