@@ -7,9 +7,9 @@
 
 <div align="left">
   <a href="https://github.com/thiagopedro99">
-    <img height="160em" src="https://github-readme-stats-c77kmm6fr-thiagopedro99.vercel.app/api?username=thiagopedro99&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats-thiagopedro99.vercel.app/api?username=thiagopedro99&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats-c77kmm6fr-thiagopedro99.vercel.app/api/top-langs/?username=thiagopedro99&layout=compact&langs_count=7&theme=dracula"/>
-     <img align="top-center" alt="Thiago-pic" height="155" style="border-radius:90px;" src="https://avatars.githubusercontent.com/u/69489913?v=4">
+  <img align="top-center" alt="Thiago-pic" height="155" style="border-radius:90px;" src="https://avatars.githubusercontent.com/u/69489913?v=4">
 </div>
 
 <div style="display: inline_block"><br>
