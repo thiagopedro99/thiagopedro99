@@ -7,7 +7,7 @@
 </div>
 
 <div style="display: flex; gap: 5px; align-items: center;">
-  <img height="160em" src="https://github-readme-stats-thiagopedro99s-projects.vercel.app/api?username=thiagopedro99&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats-nine-theta-86.vercel.app/api?username=thiagopedro99&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats-thiagopedro99s-projects.vercel.app/api/top-langs/?username=thiagopedro99&layout=compact&langs_count=7&theme=dracula"/>
   <img alt="Thiago-pic" height="160" style="border-radius: 80px; margin-top: 10px;" src="https://avatars.githubusercontent.com/u/69489913?v=4">
 </div>
